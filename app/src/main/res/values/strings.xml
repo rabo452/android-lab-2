@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab2</string>
+    <string name="make_selfi">Make selfi</string>
+    <string name="send_selfi">Send selfi</string>
 </resources>
